@@ -5,6 +5,11 @@ Question:
     Return the number of subarrays of 'nums' in which 'target' is the majority element.
     The majority element of a subarray is the element that appears strictly more than half of the times in that subarray.
 
+Constraints:
+    1 <= nums.length <= 1000
+    1 <= nums[i] <= 10​​​​​​​⁹
+    1 <= target <= 10⁹
+
 Solution stats:
     Runtime: 34 ms
     Memory: 46.9 MB
